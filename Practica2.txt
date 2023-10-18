@@ -1,0 +1,9 @@
+5.4.3   Información a cumplimentar en la hoja de petición
+
+La hoja de petición o un equivalente electrÃ³nico de la misma debe permitir espacio suficiente para incluir, entre otra, la información siguiente:
+
+a)  la identificación del paciente, incluyendo sexo, fecha de nacimiento, y los detalles de la residencia/contacto del paciente, y un identificador único;
+
+NOTA   El identificador único incluye un identificador alfanumérico tal como un código de hospital, o un número de tarjeta sanitaria individual.
+
+b)  el nombre u otro identificador único del médico clínico, proveedor sanitario, u otra persona autorizada legalmente para la petición de los análisis o utilización de la informacón clínica, junto con el destinatario del informe de laboratorio y los detalles de contacto;
